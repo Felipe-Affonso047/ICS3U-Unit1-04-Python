@@ -6,8 +6,9 @@
 
 def main():
     print("What is the area and perimeter of a 3 cm by 5 cm rectangle?")
-    print("area is:{}".format(3 * 5))
-    print("perimeter is:{}".format(2 * (3 + 5)))
+    print()
+    print("area is:{} cm".format(3 * 5))
+    print("perimeter is:{} cm".format(2 * (3 + 5)))
 
 
 if __name__ == "__main__":
